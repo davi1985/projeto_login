@@ -2,5 +2,5 @@
 Login page with PHP and MySQL
 
 Content:
-login.php
-index.php
+login.php and index.php
+
